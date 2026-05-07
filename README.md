@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @thotzee
-- 👀 I’m interested in photography, coding and history.
-- 🌱 I’m currently learning creating websites with React js and making cool stuff with python.
+- 👀 Hobbies: photography, cooking, learning 
+- 🌱 Current Job: IT technician
+- 🌱 Studies: Gábor Dénes University
 - 📫 You can reach me here: thotzee@gmail.com
 
 <!---
